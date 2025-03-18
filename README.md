@@ -24,14 +24,14 @@ Wizard Warfare é um jogo 2D desenvolvido para a disciplina da faculdade (Comput
 
 ### 🎮 Jogo em Execução
 
-![Gameplay](https://github.com/HenriqueCursino/wizard-warfare/blob/main/Captura%20de%20tela%20de%202025-03-18%2010-29-28.png?raw=true)
+![Gameplay](https://github.com/HenriqueCursino/wizard-warfare/blob/main/game.png?raw=true)
 
-![GameOver](https://github.com/HenriqueCursino/wizard-warfare/blob/main/Captura%20de%20tela%20de%202025-03-18%2010-29-35.png?raw=true)
+![GameOver](https://github.com/HenriqueCursino/wizard-warfare/blob/main/gameOver.png?raw=true)
 
 
 ### 🗄️ Banco de Dados
 
-![Banco de Dados](https://github.com/HenriqueCursino/wizard-warfare/blob/main/Captura%20de%20tela%20de%202025-03-18%2010-29-53.png?raw=true)
+![Banco de Dados](https://github.com/HenriqueCursino/wizard-warfare/blob/main/dataBase.png?raw=true)
 
 
 ## 🌐 Link para Acessar a Aplicação Online
