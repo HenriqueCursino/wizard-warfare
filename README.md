@@ -1,8 +1,10 @@
 # 🧙‍♂️ Wizard Warfare - Jogo 2D
 
+
 ## 🎮 Sobre o Projeto
 
 Wizard Warfare é um jogo 2D desenvolvido para a disciplina da faculdade (Computação Gráfica), onde o jogador controla um mago e deve derrotar inimigos para acumular pontos. O jogo conta com uma integração funcional com um banco de dados NoSQL (Firebase) para armazenar pontuações e estatísticas.
+
 
 ## 🏆 Funcionalidades
 
@@ -10,25 +12,32 @@ Wizard Warfare é um jogo 2D desenvolvido para a disciplina da faculdade (Comput
 - Inimigos variados com diferentes padrões de ataque.
 - Pontuação salva no banco de dados NoSQL.
 
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **Plataforma de Desenvolvimento**: Construct 3
 - **Motor Gráfico**: Construct 3
 - **Banco de Dados**: Firebase (NoSQL)
 
+
 ## 🖼️ Prints da Aplicação e Banco de Dados
 
 ### 🎮 Jogo em Execução
 
-![Gameplay](link-para-imagem-da-gameplay)
+![Gameplay](https://github.com/HenriqueCursino/wizard-warfare/blob/main/Captura%20de%20tela%20de%202025-03-18%2010-29-28.png?raw=true)
+
+![GameOver](https://github.com/HenriqueCursino/wizard-warfare/blob/main/Captura%20de%20tela%20de%202025-03-18%2010-29-35.png?raw=true)
+
 
 ### 🗄️ Banco de Dados
 
-![Banco de Dados](link-para--banco-de-dados)
+![Banco de Dados](https://github.com/HenriqueCursino/wizard-warfare/blob/main/Captura%20de%20tela%20de%202025-03-18%2010-29-53.png?raw=true)
+
 
 ## 🌐 Link para Acessar a Aplicação Online
 
-Acesse o jogo através do seguinte link: [Mage Battle Online](link-para-a-aplicacao)
+Acesse o jogo através do seguinte link: [Wizard Warfare](link-para-a-aplicacao)
+
 
 ## 📜 Licença
 
