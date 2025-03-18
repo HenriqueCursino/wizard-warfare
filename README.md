@@ -36,7 +36,7 @@ Wizard Warfare é um jogo 2D desenvolvido para a disciplina da faculdade (Comput
 
 ## 🌐 Link para Acessar a Aplicação Online
 
-Acesse o jogo através do seguinte link: [Wizard Warfare](link-para-a-aplicacao)
+Acesse o jogo através do seguinte link: [Wizard Warfare](https://www.construct.net/fr/free-online-games/mago-implacavel-74821/play)
 
 
 ## 📜 Licença
